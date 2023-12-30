@@ -1,0 +1,21 @@
+MOST NECESSARY BASIC POWERSHELL COMMANDS:
+
+
+These will get you started and exploring commands.
+
+1)	Get-Command - lists all commands
+2)	Get-Help [command-name]
+3)	Find-Module -Tag [modulename]
+4)	Alias
+
+example uses:
+
+	Get-Command *process
+	Get-Help Stop-Process
+	Get-Help Stop-Process -Examples
+	Get-help *process | Format-List  
+	Get-Help cat |format-List
+
+	Stop-Process -Name "notepad"
+
+	Alias | format-List
