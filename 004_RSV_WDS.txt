@@ -1,0 +1,30 @@
+POWERSHELL 5.1 RESERVED WORDS:
+source: https://learn.microsoft.com/bs-latn-ba/powershell/module/microsoft.powershell.core/about/about_reserved_words?view=powershell-5.1
+
+Reserved words are not to be used as identifiers, they have an already defined purpose. 
+
+
+
+assembly		exit			process
+base			filter			public
+begin			finally			return
+break			for			sequence
+catch			foreach			static
+class			from (*)		switch
+command			function		throw
+configuration		hidden			trap
+continue		if			try
+data			in			type
+define (*)		inlinescript		until
+do			interface		using
+dynamicparam		module			var (*)
+else			namespace		while
+elseif			parallel		workflow
+end			param
+enum			private
+
+
+
+
+
+
