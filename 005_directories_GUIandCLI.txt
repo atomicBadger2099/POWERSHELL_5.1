@@ -64,6 +64,7 @@ Get-Help ls - describes the uses of the ls command
 	ls <dir_name/path> -Force - ls, including hidden and system files of a drive
 
 	cd <dir_name/path> - changes location from one directory to another
+	cd.. change directory back one location from current one
 
 
 
