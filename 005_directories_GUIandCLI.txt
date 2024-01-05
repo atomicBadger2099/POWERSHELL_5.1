@@ -4,6 +4,7 @@ sources:
 	https://www.coursera.org/learn/os-power-user/lecture/g0ZYL/windows-list-directories-in-cli
 	https://www.coursera.org/learn/os-power-user/lecture/na8CD/windows-changing-directories-in-the-gui
 	https://www.coursera.org/learn/os-power-user/lecture/KC7aG/windows-changing-directories-in-the-cli
+	https://www.coursera.org/learn/os-power-user/lecture/J4SgK/windows-make-directories-in-the-gui-cli
 
 
 GUI means graphical user interface.
@@ -69,6 +70,12 @@ Get-Help ls - describes the uses of the ls command
 	cd~ - path to home directory
 
 tab completion - tab can be used to help find drive names of a particular letter.
+
+making directories:
+	GUI: Right-Click, new -> folder -> enter name.
+	CLI: mkdir <dir_name>
+
+note: shells do not interpret spaces
 
 
 
