@@ -3,7 +3,7 @@ documents for learning Windows Powershell command line
 
 CONTENTS:
 
-<i>001_first_commands_W.txt:</i><br>                  most basic commands, useful to start learning Powershell<br><br>
+<i>001_first_commands_W.txt:</i><br>                  <sp><sp>most basic commands, useful to start learning Powershell<br><br>
 <i>002_commands_by_alias.txt:</i><br>                 general command list from aliases<br><br>
 <i>003_alphabetical_commandlist.txt:</i><br>          general list of all command verbs, arranged alphabetically<br><br>
 <i>004_reserved_words.txt:</i><br>                    reserved words in Powershell 5.1<br><br>
