@@ -1,6 +1,9 @@
 WINDOWS DIRECTORY GUI FUNDAMENTALS:
-source: https://www.coursera.org/learn/os-power-user/lecture/6LyuB/list-directories-in-a-gui
-
+sources: 
+	https://www.coursera.org/learn/os-power-user/lecture/6LyuB/list-directories-in-a-gui
+	https://www.coursera.org/learn/os-power-user/lecture/g0ZYL/windows-list-directories-in-cli
+	https://www.coursera.org/learn/os-power-user/lecture/na8CD/windows-changing-directories-in-the-gui
+	https://www.coursera.org/learn/os-power-user/lecture/KC7aG/windows-changing-directories-in-the-cli
 
 
 GUI means graphical user interface.
@@ -57,8 +60,10 @@ The root folder is the parent directory. The contents inside are the child direc
 
 Get-Help ls - describes the uses of the ls command
 	Get-Help ls -Full
+	
+	ls <dir_name/path> -Force - ls, including hidden and system files of a drive
 
-	ls <dir_path> -Force - ls, including hidden and system files of a drive
+	cd <dir_name/path> - changes location from one directory to another
 
 
 
