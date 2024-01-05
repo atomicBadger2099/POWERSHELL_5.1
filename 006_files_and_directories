@@ -1,7 +1,28 @@
-Commands for Files and Directories:
+COMMANDS FOR MANAGING FILES AND DIRECTORIES:
+
 sources:
   https://www.coursera.org/learn/os-power-user/lecture/J4SgK/windows-make-directories-in-the-gui-cli
+  https://www.coursera.org/learn/os-power-user/lecture/DnaPT/windows-copying-files-directories
+  https://www.coursera.org/learn/os-power-user/lecture/YA2wn/windows-removing-files-directories
+
+
 
 adding directories in the GUI: right-click - new - folder (name)
 adding directories in the CLI: mkdir <directory_name>
 
+copying files in the GUI: right-click, copy and paste file to a new location
+copying files in the CLI: cp <filename> <new location>
+
+copying multiple files using a wildcard:  cp *<pattern> <location>
+  example: cp .png C:Users\milbu\Pictures
+
+-Recurse parameter - and   verbose parameter for copying files:
+  cp <filename> <new_location> -Recurse -Verbose
+
+removing files and directories:
+  removing files and folders in the GUI: right-click file/folder and delete
+  removing a file in the CLI: rm <filename>
+  removing a directory in the CLI: rm <folder_name> -Recurse
+
+file and directory removal can be blocked by the system admin setting a file permission.
+the -Force parameter can sometimes aid in the removal of a file or folder.
