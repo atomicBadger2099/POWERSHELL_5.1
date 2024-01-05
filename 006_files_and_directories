@@ -1,1 +1,7 @@
 Commands for Files and Directories:
+sources:
+  https://www.coursera.org/learn/os-power-user/lecture/J4SgK/windows-make-directories-in-the-gui-cli
+
+adding directories in the GUI: right-click - new - folder (name)
+adding directories in the CLI: mkdir <directory_name>
+
