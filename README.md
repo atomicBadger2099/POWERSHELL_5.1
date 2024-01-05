@@ -1,4 +1,4 @@
-# powershell
+# Powershell 5.1
 documents for learning Windows Powershell command line
 
 CONTENTS:
