@@ -23,6 +23,9 @@ removing files and directories:
   removing files and folders in the GUI: right-click file/folder and delete
   removing a file in the CLI: rm <filename>
   removing a directory in the CLI: rm <folder_name> -Recurse
+  rmdir may also be used to remove a directory.
 
 file and directory removal can be blocked by the system admin setting a file permission.
 the -Force parameter can sometimes aid in the removal of a file or folder.
+
+
