@@ -66,6 +66,7 @@ Get-Help ls - describes the uses of the ls command
 	cd <dir_name/path> - changes location from one directory to another
 	cd.. change directory back one location from current one
 	cd..\Desktop - returns to C:\ location of Desktop, shortneed form
+	cd~ - path to home directory
 
 
 
