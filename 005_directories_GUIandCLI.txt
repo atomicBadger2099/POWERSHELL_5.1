@@ -68,6 +68,8 @@ Get-Help ls - describes the uses of the ls command
 	cd..\Desktop - returns to C:\ location of Desktop, shortneed form
 	cd~ - path to home directory
 
+tab completion - tab can be used to help find drive names of a particular letter.
+
 
 
 
