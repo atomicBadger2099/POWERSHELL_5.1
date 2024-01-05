@@ -1,0 +1,64 @@
+WINDOWS DIRECTORY GUI FUNDAMENTALS:
+source: https://www.coursera.org/learn/os-power-user/lecture/6LyuB/list-directories-in-a-gui
+
+
+
+GUI means graphical user interface.
+	You are using the point and click graphical method to use Windows.
+
+The typical Windows computer user learns how to function in the GUI first,
+	then transfers those skills to command line (CLI).
+
+Remember this, that Windows thinks in objects, whereas Linux thinks in files.
+
+Paths in Windows:
+
+*EVERY* folder or file has a path or location in an operating system. 
+That path is its home location.
+
+Documents file folder in Windows 10 as an example:
+C:\Users\milbu\Documents
+
+Subdirectories are begun with backslashes in Windows(\).
+In Linux subdirectories are begun with forward slashes (/).
+
+form: C:Root\Branch\Branch\Branch
+
+files can be hidden. This is common for some operating or configuration files.
+  in Windows 10 GUI, go to view -> hidden items checkbox to see hidden items
+
+in GUI, the properties of a file may be seen by right-clicking on the file and selecting properties.
+Learn how to examine, use, and change the different properties related to folders and files.
+
+Folder properties:	
+	general
+	sharing
+	security
+	previous versions
+	customize
+
+File properties:
+	general
+	security
+	details
+	previous versions
+
+
+DIRECTORY COMMANDS-CLI in Powershell:
+	source: https://www.coursera.org/learn/os-power-user/lecture/g0ZYL/windows-list-directories-in-cli
+
+	ls - lists directories. can be made specific- ex: ls c:\
+		therefore: ls pathname
+
+The root folder is the parent directory. The contents inside are the child directories.
+
+Get-Help ls - describes the uses of the ls command
+	Get-Help ls -Full
+
+	ls <dir_path> -Force - ls, including hidden and system files of a drive
+
+
+
+
+
+	
