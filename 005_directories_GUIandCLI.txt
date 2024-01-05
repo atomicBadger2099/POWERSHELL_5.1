@@ -16,6 +16,9 @@ Paths in Windows:
 *EVERY* folder or file has a path or location in an operating system. 
 That path is its home location.
 
+absolute path: the complete path from the main directory
+relative path: path to a file or object from the current directory
+
 Documents file folder in Windows 10 as an example:
 C:\Users\milbu\Documents
 
