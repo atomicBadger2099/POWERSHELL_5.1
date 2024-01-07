@@ -5,6 +5,7 @@ sources:
   https://www.coursera.org/learn/technical-support-fundamentals/lecture/CKcxg/memory-management
   https://www.coursera.org/learn/technical-support-fundamentals/lecture/AeNE4/i-o-management
   https://www.coursera.org/learn/technical-support-fundamentals/lecture/4PIFO/interacting-with-the-os-user-space
+  
 
 process-a running program or application.
 
@@ -35,5 +36,6 @@ The operating system divides into several regions:
 
 drivers allow the hardware of a computer to interact with its software.
   hardware - the physical machinery of the computer, including peripherals and monitors
+
   
   
