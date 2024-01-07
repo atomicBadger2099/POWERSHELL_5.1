@@ -23,5 +23,5 @@ Windows logs may be one of 5 types:
 Applications and services logslist will depend on what applications are
 active on the system.
 
-A seperate log set for subscriptions exists.
+A separate log set for subscriptions exists.
 
