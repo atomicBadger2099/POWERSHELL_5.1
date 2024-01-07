@@ -1,0 +1,15 @@
+Windows Logs
+
+Logs are records of computer system events,
+
+GUI - access logs by the event viewer
+  (windows key + R - type eventvwr - enlarge logs window)
+  (or type event viewer in dialog box.)
+
+Windows logs may be one of 5 types:
+  - application (related to software or applications on current system)
+  - security (one of primary tools of tracking security breaches and problem solving)
+  - setup (creates log files for all actions that occur during an Os installation)
+  - system (inforamtion on hardware and software events that take place within a system)
+  - forwarded events (events related to forwarding between hosts in a current system)
+
