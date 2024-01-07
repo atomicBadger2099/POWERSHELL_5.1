@@ -2,6 +2,7 @@ PROCESS MANAGEMENT:
 
 sources: 
   https://www.coursera.org/learn/technical-support-fundamentals/lecture/fWidx/process-management
+  https://www.coursera.org/learn/technical-support-fundamentals/lecture/CKcxg/memory-management
 
 process-a running program or application.
 
@@ -16,5 +17,9 @@ factors in a process's ability to run, or efficiency level:
   - number and allocation of resources of other running processes
   - RAM allocated or other engaged memory
   - capability of CPU
+
+virtual memory - the combination of hard drive space and RAM allocated specifically for use by processes.
+
+swap space - assigned virtual memory space on a hard drive.
   
   
