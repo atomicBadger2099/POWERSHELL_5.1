@@ -3,6 +3,7 @@ PROCESS MANAGEMENT:
 sources: 
   https://www.coursera.org/learn/technical-support-fundamentals/lecture/fWidx/process-management
   https://www.coursera.org/learn/technical-support-fundamentals/lecture/CKcxg/memory-management
+  https://www.coursera.org/learn/technical-support-fundamentals/lecture/AeNE4/i-o-management
 
 process-a running program or application.
 
@@ -19,7 +20,16 @@ factors in a process's ability to run, or efficiency level:
   - capability of CPU
 
 virtual memory - the combination of hard drive space and RAM allocated specifically for use by processes.
-
 swap space - assigned virtual memory space on a hard drive.
+
+I/O management:
+  I/O devices are devices used to handle input/output tasks.
+
+The operating system divides into several regions:
+  user space - where the computer interacts with user
+  kernel - manages processes, memory, files, and I/O tasks
+
+drivers allow the hardware of a computer to interact with its software.
+  hardware - the physical machinery of the computer, including peripherals and monitors
   
   
