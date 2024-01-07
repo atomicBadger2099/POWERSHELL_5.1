@@ -2,4 +2,19 @@ PROCESS MANAGEMENT:
 
 sources: 
   https://www.coursera.org/learn/technical-support-fundamentals/lecture/fWidx/process-management
+
+process-a running program or application.
+
+when a process runs, it takes up computer resources, CPU, RAM,ect.
+The kernel manages this by creating , managing, and terminating processes in due order.
+
+Processes run one at a time, in a section of time called a time slice.
+Time slices happen so fast, that processes may appear to be happening simultaneously.
+Processes appear to be happening at the same time. A process time slice is so fast it may be measured in milliseconds.
+
+factors in a process's ability to run, or efficiency level:
+  - number and allocation of resources of other running processes
+  - RAM allocated or other engaged memory
+  - capability of CPU
+  
   
