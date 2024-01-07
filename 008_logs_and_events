@@ -1,6 +1,12 @@
-Windows Logs
+WINDOWS 10 LOGS AND EVENT RECORDS:
 
-Logs are records of computer system events,
+
+
+Logs are records of computer system events.
+Logs fall into three general classifications on a Windows System:
+  - Windows logs
+  - applications and services logs
+  - subscriptions logs
 
 GUI - access logs by the event viewer
   (windows key + R - type eventvwr - enlarge logs window)
@@ -12,4 +18,9 @@ Windows logs may be one of 5 types:
   - setup (creates log files for all actions that occur during an Os installation)
   - system (inforamtion on hardware and software events that take place within a system)
   - forwarded events (events related to forwarding between hosts in a current system)
+
+Applications and services logslist will depend on what applications are
+active on the system.
+
+A seperate log set for subscriptions exists.
 
