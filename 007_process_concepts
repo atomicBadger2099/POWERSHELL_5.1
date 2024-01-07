@@ -4,6 +4,7 @@ sources:
   https://www.coursera.org/learn/technical-support-fundamentals/lecture/fWidx/process-management
   https://www.coursera.org/learn/technical-support-fundamentals/lecture/CKcxg/memory-management
   https://www.coursera.org/learn/technical-support-fundamentals/lecture/AeNE4/i-o-management
+  https://www.coursera.org/learn/technical-support-fundamentals/lecture/4PIFO/interacting-with-the-os-user-space
 
 process-a running program or application.
 
@@ -26,7 +27,10 @@ I/O management:
   I/O devices are devices used to handle input/output tasks.
 
 The operating system divides into several regions:
-  user space - where the computer interacts with user
+  user space - where the computer interacts with user.
+  Userspace is performed either by GUI or CLI shells.
+  Windows-Powershell, Linux-Bash
+
   kernel - manages processes, memory, files, and I/O tasks
 
 drivers allow the hardware of a computer to interact with its software.
