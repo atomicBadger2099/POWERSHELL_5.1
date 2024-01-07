@@ -26,5 +26,5 @@ active on the system.
 A separate log set for subscriptions exists.
 
 Security logs are *VERY IMPORTANT*. They are the first and last line of defense in a Windows system, 
-  be int a local computer or a server.
+  be it a local computer or a server.
 
