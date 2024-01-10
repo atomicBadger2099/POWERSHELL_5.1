@@ -1,0 +1,20 @@
+SCRIPTING BEGINNER CONCEPTS:
+
+
+a script file in Windows ends with the prefix .ps1
+  example: HelloWorld.ps1
+
+to run a file, go to powershell prompt and type: ./<filename>.ps1
+  example:  ./HelloWorld.ps1
+
+commenting - single line:
+  #COMMENT_GOES_HERE
+
+single output line:
+  Write-Output 'This is your statement'
+
+example - hello world program
+  make a file called HelloWorld.ps1
+
+  Write-Output 'Hello World!'
+  # yes, its ok to include spaces!
