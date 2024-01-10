@@ -1,0 +1,13 @@
+IMPORTANT POWERSHELL COMMANDS:
+
+
+
+FILE AND DIRECTORY COMMANDS:
+pwd                      show current path-location
+ls                       list folder contentz
+cd                       switch to folder
+cd..                     switch one level upward
+mkdir                    make directory/folder of followong path name
+rmdir                    remove/delete folder of following path name
+touch                    make file of location of
+rm                       remove file
