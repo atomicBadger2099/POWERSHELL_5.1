@@ -10,4 +10,4 @@ cd..                                                               switch one le
 mkdir                                                              make directory/folder of followong path name
 rmdir                                                              remove/delete folder of following path name
 New-Item -Path "C:\_some_pathname" iItemType File                  make file of listed location and name
-rm                                                                 remove file
+Remove-Item "<path-and-filename>" -Recurse                         remove file
