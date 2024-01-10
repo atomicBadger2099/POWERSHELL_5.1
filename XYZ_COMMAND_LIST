@@ -7,7 +7,7 @@ pwd                                                                show current 
 ls                                                                 list folder contentz
 cd                                                                 switch to folder
 cd..                                                               switch one level upward
-mkdir                                                              make directory/folder of followong path name
-rmdir                                                              remove/delete folder of following path name
+New-Item -Path "<pathname>" -Type Directory                        make directory
+Remove-Item -Path C:\path\folder -Recurse                          remove/delete folder of following path name
 New-Item -Path "C:\_some_pathname" iItemType File                  make file of listed location and name
 Remove-Item "<path-and-filename>" -Recurse                         remove file
