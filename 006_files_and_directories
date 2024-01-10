@@ -12,6 +12,8 @@ adding directories in the CLI: mkdir <directory_name>
                         OR
 New-Item -Path "C:\" -Name "dir_name" -ItemType Directory
 (this creates a new, named directory in the C:\ drive.
+To make a new folder in the current directory:
+New-Item "dir_name" -ItemType Directory
 
 
 copying files in the GUI: right-click, copy and paste file to a new location
@@ -35,5 +37,4 @@ the -Force parameter can sometimes aid in the removal of a file or folder.
  
  
 
-  To make a new folder in the current directory:
-  New-Item "dir_name" -ItemType Directory
+ 
