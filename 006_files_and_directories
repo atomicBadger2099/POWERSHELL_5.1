@@ -9,6 +9,10 @@ sources:
 
 adding directories in the GUI: right-click - new - folder (name)
 adding directories in the CLI: mkdir <directory_name>
+                        OR
+New-Item -Path "C:\" -Name "dir_name" -ItemType Directory
+(this creates a new, named directory in the C:\ drive.
+
 
 copying files in the GUI: right-click, copy and paste file to a new location
 copying files in the CLI: cp <filename> <new location>
@@ -28,4 +32,8 @@ removing files and directories:
 file and directory removal can be blocked by the system admin setting a file permission.
 the -Force parameter can sometimes aid in the removal of a file or folder.
 
+ 
+ 
 
+  To make a new folder in the current directory:
+  New-Item "dir_name" -ItemType Directory
