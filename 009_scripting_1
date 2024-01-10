@@ -18,3 +18,7 @@ example - hello world program
 
   Write-Output 'Hello World!'
   # yes, its ok to include spaces!
+
+Windows 10 will initially be set to not allow Powershell scripts to run as a security feature.
+  To change this, using the powershell run as administrator:
+  run the command:   set-executionpolicy remotesigned
