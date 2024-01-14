@@ -3,3 +3,5 @@ POWERSHELL SECURITY TECHNIQUES:
 
 I. retrieving logs:
   https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-eventlog?view=powershell-5.1
+
+Logs are the beginning and end of computer security. start here.
