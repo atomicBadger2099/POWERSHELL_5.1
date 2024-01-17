@@ -11,3 +11,7 @@ New-Item -Path "<pathname>" -Type Directory                        make director
 Remove-Item -Path C:\path\folder -Recurse                          remove/delete folder of following path name
 New-Item -Path "C:\_some_pathname" iItemType File                  make file of listed location and name
 Remove-Item "<path-and-filename>" -Recurse                         remove file
+
+
+NETWORKING COMMANDS:
+  Get-NetIPAddress                                                  shows current IP address of system
